@@ -15,12 +15,14 @@ Bir dış ticaret ve danışmanlık grubunun bilgi işlem altyapısını uçtan 
 
 | Alan | Kapsam |
 |---|---|
+| Yazılım geliştirme | C#, VB.NET, PHP, JavaScript, PowerShell, SQL; masaüstü uygulamaları, yönetim panelleri, kurumsal web siteleri |
 | Sistem yönetimi | Windows Server, IIS, Ubuntu, Plesk, cPanel |
-| Ağ ve güvenlik | Güvenlik duvarı ve VPN yönetimi, Cloudflare, kayıt analizi |
+| Donanım | Sunucu, istemci ve ağ ekipmanlarının kurulumu, arıza tespiti ve onarımı; envanter ve zimmet yönetimi |
+| Ağ ve siber güvenlik | Güvenlik duvarı ve VPN yönetimi, erişim denetimi, Cloudflare, güvenlik kayıtlarının analizi |
 | E-posta altyapısı | Şirket içi mail sunucusu, DNS ve DKIM, hesap taşıma |
-| Yedekleme | NAS, soğuk yedek, fidye yazılımına karşı dayanıklılık |
-| Yazılım geliştirme | C#, VB.NET, PHP, JavaScript, PowerShell, SQL |
-| Otomasyon | n8n, Google Gemini, Claude |
+| Yedekleme | NAS, soğuk yedek, fidye yazılımlarına karşı dayanıklılık |
+| Otomasyon | n8n, Google Gemini, Claude ile iş akışı otomasyonu ve raporlama |
+| Grafik tasarım | Kurumsal kimlik, baskı ve dijital tasarım; Adobe Photoshop, vektörel çizim |
 
 ## Kurum içi çalışmalar
 
