@@ -8,7 +8,7 @@ Bir dış ticaret ve danışmanlık grubunun bilgi işlem altyapısını uçtan 
 
 | Proje | Açıklama | Teknoloji | Sürüm |
 |---|---|---|---|
-| [Mail Aktarıcı](https://github.com/ceceys/mail-aktarici) | Outlook hesaplarını ve PST arşivlerini EML ve PST olarak eksiksiz taşıyan, kurulum gerektirmeyen Windows aracı | C#, .NET Framework | [1.1.0](https://github.com/ceceys/mail-aktarici/releases/latest) |
+| [Mail Aktarıcı](https://github.com/ceceys/mail-aktarici) | Outlook hesaplarını ve PST arşivlerini EML ve PST olarak eksiksiz taşıyan, kurulum gerektirmeyen Windows aracı | C#, .NET Framework | [1.1.1](https://github.com/ceceys/mail-aktarici/releases/latest) |
 | [Dijital Gözetleme Kulesi](https://github.com/ceceys/dijital-gozetleme-kulesi) | Web sitelerinin erişilebilirliğini, SSL sertifika süresini ve alan adı bitiş tarihini izleyen konsol aracı | VB.NET, .NET Framework | [1.0.0](https://github.com/ceceys/dijital-gozetleme-kulesi/releases/latest) |
 
 ## Uzmanlık alanları
