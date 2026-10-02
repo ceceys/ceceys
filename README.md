@@ -1,39 +1,40 @@
-## Merhaba, ben Cuma Ali (cecey)
+# Cuma Ali Dirik
 
-İstanbul'da bir dış ticaret ve danışmanlık grubunun bütün bilgi işini tek başıma yürütüyorum. Sunucular, ağ, güvenlik duvarı, e-posta altyapısı, yedekleme ve kullanıcı desteği bende. Bir işi elle ikinci kez yapıyorsam onu yapan aracı yazarım; bu sayfadaki projelerin hepsi böyle doğdu.
+**IT Specialist & System Administrator** · İstanbul
 
-*Sysadmin and IT specialist from Istanbul. I run the whole IT stack of a trade and consulting group on my own and write the tools I need along the way.*
+Bir dış ticaret ve danışmanlık grubunun bilgi işlem altyapısını uçtan uca yönetiyorum: sunucular, ağ ve güvenlik, e-posta altyapısı, yedekleme ve kullanıcı desteği. İhtiyaç duyulan araçları kendim geliştiriyor, kalıcı olanları açık kaynak olarak paylaşıyorum.
 
-### Açık kaynak projeler
+## Projeler
 
-| Proje | Ne yapar | Teknoloji |
-|---|---|---|
-| **[Mail Aktarıcı](https://github.com/ceceys/mail-aktarici)** | Outlook'taki bütün hesapları, diskteki PST arşivlerini ve IMAP/POP3 kutularını tek klasöre EML ve PST olarak kopyalar, bitince sayıları doğrular. Kurulum yok, tek exe. | C# · WinForms · Outlook COM |
-| **[Dijital Gözetleme Kulesi](https://github.com/ceceys/dijital-gozetleme-kulesi)** | Web sitelerinin HTTP durumunu, SSL sertifika süresini ve alan adı bitiş tarihini tek ekranda takip eder. | VB.NET · TLS · WHOIS |
+| Proje | Açıklama | Teknoloji | Sürüm |
+|---|---|---|---|
+| [Mail Aktarıcı](https://github.com/ceceys/mail-aktarici) | Outlook hesaplarını ve PST arşivlerini EML ve PST olarak eksiksiz taşıyan, kurulum gerektirmeyen Windows aracı | C#, .NET Framework | [1.1.0](https://github.com/ceceys/mail-aktarici/releases/latest) |
+| [Dijital Gözetleme Kulesi](https://github.com/ceceys/dijital-gozetleme-kulesi) | Web sitelerinin erişilebilirliğini, SSL sertifika süresini ve alan adı bitiş tarihini izleyen konsol aracı | VB.NET, .NET Framework | [1.0.0](https://github.com/ceceys/dijital-gozetleme-kulesi/releases/latest) |
 
-<p align="center">
-  <a href="https://github.com/ceceys/mail-aktarici"><img src="https://raw.githubusercontent.com/ceceys/mail-aktarici/main/docs/ekran.png" alt="Mail Aktarıcı ekranı" width="640"></a>
-</p>
+## Uzmanlık alanları
 
-### Kurum içinde yazdıklarım
+| Alan | Kapsam |
+|---|---|
+| Sistem yönetimi | Windows Server, IIS, Ubuntu, Plesk, cPanel |
+| Ağ ve güvenlik | Güvenlik duvarı ve VPN yönetimi, Cloudflare, kayıt analizi |
+| E-posta altyapısı | Şirket içi mail sunucusu, DNS ve DKIM, hesap taşıma |
+| Yedekleme | NAS, soğuk yedek, fidye yazılımına karşı dayanıklılık |
+| Yazılım geliştirme | C#, VB.NET, PHP, JavaScript, PowerShell, SQL |
+| Otomasyon | n8n, Google Gemini, Claude |
 
-Kaynak kodu kapalı, her gün kullanılan sistemler:
+## Kurum içi çalışmalar
 
-- **Helpdesk ve envanter sistemi:** bilet takibi, barkodlu envanter ve zimmet, her akşam kendiliğinden yazılan gün sonu raporu. Kendi sunucusunda çalışıyor.
-- **Güvenlik duvarı raporu:** olay kayıtları her gece yapay zekayla inceleniyor, özet rapor sabah mail kutusunda.
-- **Haber ve blog botu:** n8n ve Google AI ile kaynakları tarıyor, metni yeniden yazıp görsel üretiyor, sitede yayınlıyor.
-- **Belge doğrulama paneli:** vergi ya da belge numarasıyla sertifika sorgulama, dört dile otomatik çeviri, bot koruması.
-- **Ofis içi sohbet uygulaması:** saf PHP, MariaDB ve vanilla JS ile ekip içi yazışma.
-- **Kurumsal siteler:** grup şirketlerinin çok dilli sitelerini sıfırdan yazıp kendi sunucularımızda yayınlıyorum. [agglobal.com.tr](https://agglobal.com.tr) · [tumgrup.com.tr](https://tumgrup.com.tr) · [idcert.com.tr](https://idcert.com.tr) · [tumpartners.com.tr](https://tumpartners.com.tr) · [tumtrading.com](https://tumtrading.com)
+Şirket içinde günlük kullanılan, kaynak kodu paylaşılmayan sistemler:
 
-### Kullandıklarım
+- Bilet, envanter ve zimmet yönetimi; otomatik gün sonu raporu
+- Güvenlik duvarı kayıtlarının yapay zeka ile gecelik analizi
+- Belge doğrulama paneli ve dört dile otomatik çeviri
+- Grup şirketleri için çok dilli kurumsal web siteleri
 
-**Diller:** C# · VB.NET · PHP · JavaScript · PowerShell · Python · SQL
+## İletişim
 
-**Altyapı:** Windows Server ve IIS · Ubuntu · Plesk ve cPanel · Cloudflare · güvenlik duvarı ve VPN · kendi mail sunucumuz · NAS ve yedekleme
+[LinkedIn](https://www.linkedin.com/in/cuma-ali-dirik/)
 
-**Otomasyon ve yapay zeka:** n8n · Google Gemini · Claude
+---
 
-### İletişim
-
-[LinkedIn](https://www.linkedin.com/in/cuma-ali-dirik-b46094178/)
+<sub>IT specialist and system administrator based in Istanbul. I run the full IT infrastructure of a trade and consulting group and build the tools it needs.</sub>
