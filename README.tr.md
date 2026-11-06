@@ -22,6 +22,7 @@
 
 | Proje | Ne işe yarar | Teknoloji |
 |---|---|---|
+| [İstif](https://github.com/ceceys/istif) | Tır, kamyon ve konteyner yükünü 3B planlar: istif kuralları, karışık filo, kalan boşluğu cm olarak gösteren elle düzenleme, PDF yükleme planı ve Excel'den yük alma; 12 dilde. | C#, WPF, .NET 8, WebView2, three.js, Web Worker, Inno Setup, GitHub Actions |
 | [Mandal](https://github.com/ceceys/mandal) | Windows'ta ekran alıntıları ve notlar için çamaşır ipi: alıntı al, ipe as, kopyala, görseli metne çevir, kartlara kısayol ata. | C#, WPF, .NET 8, Windows OCR, Inno Setup, GitHub Actions |
 | [SWIFT PDF](https://github.com/ceceys/swift-pdf) | Kuveyt Türk giden transfer mailinden yalnız ham SWIFT metnini içeren tek sayfa A4 PDF üretir.<br>**Etki:** Elle yapılan iş birkaç saniyeye indi; 298 test PDF'inin 298'inde doğru. | C#, WPF, .NET 8, PdfPig, WebView2 |
 | [Mail Aktarıcı](https://github.com/ceceys/mail-aktarici) | Outlook hesaplarını, PST arşivlerini ve IMAP/POP3 kutularını kaynağa dokunmadan tek klasöre kopyalar, sayıları doğrular. | C#, WinForms, .NET Framework 4, Outlook COM |

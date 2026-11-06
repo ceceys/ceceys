@@ -22,6 +22,7 @@ I work in software and IT in Istanbul. I like writing tools for the problems I r
 
 | Project | What it does | Built with |
 |---|---|---|
+| [İstif](https://github.com/ceceys/istif) | Plans truck, lorry and container loads in 3D: stacking rules, mixed fleets, editing by hand with the space left in cm, a PDF loading plan and Excel import, in 12 languages. | C#, WPF, .NET 8, WebView2, three.js, Web Workers, Inno Setup, GitHub Actions |
 | [Mandal](https://github.com/ceceys/mandal) | A clothesline for screenshots and notes on Windows: capture, pin, copy, OCR and per-item shortcuts. | C#, WPF, .NET 8, Windows OCR, Inno Setup, GitHub Actions |
 | [SWIFT PDF](https://github.com/ceceys/swift-pdf) | Turns Kuveyt Türk outgoing transfer e-mails into a one-page A4 PDF that holds only the raw SWIFT text.<br>**Impact:** A manual job now takes a few seconds; correct in 298 of 298 test PDFs. | C#, WPF, .NET 8, PdfPig, WebView2 |
 | [Mail Aktarıcı](https://github.com/ceceys/mail-aktarici) | Copies every Outlook account, PST archive and IMAP/POP3 mailbox into one folder without touching the source, and checks the counts. | C#, WinForms, .NET Framework 4, Outlook COM |
